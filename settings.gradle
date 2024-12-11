@@ -1,0 +1,4 @@
+rootProject.name = 'demo-hexagonal-architecture'
+
+include('api')
+include('core')
